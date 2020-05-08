@@ -13,17 +13,21 @@
  Este repositório contém além da Tese, os arquivos de código em linguagem R utilizados na: produção dos bancos de dados, nas análises descritivas e na inferência dos modelos estatísticos.*
  
 ### Descrição dos arquivos de script em linguagem R
-Obs.: Os caminhos que apontam para os arquivos de dados, devem ser revistos antes de executar os scripts.
+
+* Os caminhos que apontam para os arquivos de dados, devem ser revistos antes de executar os scripts. 
+
+* Não é necessária a execução dos arquivos de produção dos bancos de dados (a menos que deseje entender o processo de sua construção), pois os dados utilizados para análise dos resultados já estão confeccionados. Verificar apenas os BD necessários para executar os scripts em negrito.
+
 | Scripts | Descrição da codificação |
 | ------ | ------ |
 | cap2.R | produção do banco de dados do capítulo 2  |
-| cap2_Analises.R | figuras, quadros e mapas do capítulo 2 |
+| **cap2_Analises.R** | figuras, quadros e mapas do capítulo 2 |
 | cap3.R | produção do banco de dados do capítulo 3 |
 | cap3_tse.R | inserção das variáveis políticas no banco de dados do capitulo 3 |
-| cap3_Analises.R | resultados da modelagem em painel |
+| **cap3_Analises.R** | resultados da modelagem em painel |
 | finbra.R | tabela do apêndice B |
 
-### Acesso aos dados brutos, consolidados, planilhas, imagens e da Tese
+### Acesso aos dados brutos, dados consolidados, planilhas e imagens
 Os dados estão dispostos da forma mais aberta e transparente possível, de modo que tudo o que foi produzido, em termos da codificação está acessível na pasta do Google Drive abaixo:
 
 [![N|Pasta no Google Drive](https://img.icons8.com/color/2x/google-drive.png)](https://drive.google.com/drive/folders/1BzXvqSQdHEbXH8DQUFJLOlF_s-BbBzaN?usp=sharing)
