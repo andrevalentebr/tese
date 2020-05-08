@@ -1,8 +1,8 @@
 ## Os Condicionantes Políticos das TVF aos Municípios (2009-2017)
 > COUTO, A.V. **Os Determinantes Políticos das Transferências Voluntárias Federais aos Municípios (2009-2017)**, Tese de Doutorado submetida ao Departamento de Pós-Graduação em Ciência Política da UFPE, Recife/PE, 2019.
-Autor: **André Valente do Couto** [![N|CV](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/5274753141545135)
-Orientador: **Prof. Dr. Dalson Britto Figueiredo Júnior** [![N|CV](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/6683806605359913)
-Coorientador: **Prof. Dr. Enivaldo Carvalho da Rocha** [![N|CV](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/3629594575120398)
+> Autor: **André Valente do Couto** [![N|CV](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/5274753141545135)
+> Orientador: **Prof. Dr. Dalson Britto Figueiredo Júnior** [![N|CV](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/6683806605359913)
+> Coorientador: **Prof. Dr. Enivaldo Carvalho da Rocha** [![N|CV](http://buscatextual.cnpq.br/buscatextual/images/v2/icone_lattes.png)](http://lattes.cnpq.br/3629594575120398)
 
  *A tese foi desenvolvida com os seguintes softwares livres: LibreOffice Writer, Calc, Rstudio e R
 Todos os dados, informações e scripts constantes neste ambiente, podem ser utilizados livremente desde que devidamente citados.
@@ -21,4 +21,5 @@ Obs.: Os caminhos que apontam para os arquivos de dados, devem ser revistos ante
 
 #### Acesso aos dados brutos, consolidados, planilhas, imagens e da Tese
 Os dados estão dispostos da forma mais aberta e transparente possível, de modo que tudo o que foi produzido, em termos da codificação está acessível na pasta do Google Drive abaixo:
-[![N|CV](https://img.icons8.com/color/2x/google-drive.png)](https://drive.google.com/drive/folders/1BzXvqSQdHEbXH8DQUFJLOlF_s-BbBzaN?usp=sharing)
+
+[![N|Pasta no Google Drive](https://img.icons8.com/color/2x/google-drive.png)](https://drive.google.com/drive/folders/1BzXvqSQdHEbXH8DQUFJLOlF_s-BbBzaN?usp=sharing)
