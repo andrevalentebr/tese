@@ -3,7 +3,7 @@
 #       cap2.R - Script para Produção do Banco de Dados do Capítulo 2         #
 #                                                  André Valente - Jan/2018   #
 #-----------------------------------------------------------------------------#
-#
+# 
 setwd("C:/Users/Andre/Google Drive/TESE_R")
 #install.packages("data.table")
 library("data.table")

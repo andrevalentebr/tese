@@ -4,7 +4,7 @@
 #                                                   Andre Valente - Dez/2018
 #            ANÁLISE DOS DADOS DO CAPÍTULO 3 - MODELOS EM PAINEL
 #------------------------------------------------------------------------------#
-#
+# 
 setwd("C:/Users/Andre/Google Drive/TESE_R")
 x <- c("data.table", "plm", "xlsx","plyr","lmtest")
 #lapply(x, install.packages, character.only = TRUE) 

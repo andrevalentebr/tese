@@ -3,7 +3,7 @@
 #       cap2.R - Script para Produção do Banco de Dados do Capítulo 3         #
 #                                                  André Valente - Jan/2019   #
 #-----------------------------------------------------------------------------#
-#
+# 
 setwd("C:/Users/Andre/Google Drive/TESE_R")
 x <- c("data.table","xlsx","plyr")
 #lapply(x, install.packages, character.only = TRUE) 

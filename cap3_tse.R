@@ -5,7 +5,7 @@
 #------------------------------------------------------------------------------#
 #
 ## Variáveis Políticas TSE ----
-#
+# 
 # ----------- Variáveis Globais -----------#
 library(data.table)
 library(xlsx)

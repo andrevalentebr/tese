@@ -3,7 +3,7 @@
 #        [ SICONV - Transferência voluntárias 2009 à 2017 ]
 #                                                   Andre Valente - Jan/2019
 #------------------------------------------------------------------------------#
-#
+# 
 setwd("C:/Users/Andre/Google Drive/TESE_R")
 x <- c("data.table", "ggplot2", "gridExtra", "rgdal", "rgeos",
        "dplyr", "tidyr", "tmap", "xlsx","plyr")
